@@ -1,5 +1,3 @@
-#!/bin/bash
-
  cd samples/
  mv animals/countries/ .
  mv countries/movies/ .
