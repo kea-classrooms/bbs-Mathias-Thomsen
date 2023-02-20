@@ -1,7 +1,7 @@
 mkdir samples
 mkdir samples/animals
 mkdir samples/animals/countries
-mkdir samples/animals/countries/movies /
+mkdir samples/animals/countries/movies 
 
 ANIMALS=('Apes' 'Elephants' 'Elephant babies' 'Monkies' 'apes')
 COUNTRIES=('Denmark' 'Sweden' 'USA' 'France' 'Italy' '.apes' 'North Korea')
